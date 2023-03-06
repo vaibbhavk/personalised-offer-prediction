@@ -2,10 +2,11 @@
 
 ## Understand the user behaviours regarding the offers
 
-Used scikit-learn to train the models.
+- Used scikit-learn to train the models.
 
 ## Problem Statement
 
+- It is a classification problem.
 [Kaggle Competition Link](https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/overview)
 
 ## Optimizations
