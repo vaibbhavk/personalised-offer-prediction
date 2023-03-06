@@ -7,7 +7,7 @@
 ## Problem Statement
 
 - It is a classification problem.
-[Kaggle Competition Link](https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/overview)
+- [Kaggle Competition Link](https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/overview)
 
 ## Optimizations
 
