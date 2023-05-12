@@ -1,6 +1,6 @@
 # Marketing Strategy - Personalized Offer
 
-## Understand the user's behavior regarding the offers
+## Understand the user behavior regarding the offers
 
 - Trained multiple models.
 - Used scikit-learn.
