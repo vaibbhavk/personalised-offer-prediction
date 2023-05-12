@@ -2,7 +2,8 @@
 
 ## Understand the user behaviours regarding the offers
 
-- Used scikit-learn to train the models.
+- Trained multiple models.
+- Used scikit-learn.
 
 ## Problem Statement
 
